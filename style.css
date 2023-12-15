@@ -1,0 +1,22 @@
+.footer{
+    background-color: deeppink;
+    color: black;
+}
+span{
+    float: left;
+    padding: 30px 30px 30px 30px;
+    background-color: red;
+}
+.float-left{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px 5px 5px 5px;
+}
+.para{
+   overflow-x: scroll;
+   overflow-y: scroll;
+   height: 300px;
+   width: 500px;
+}
